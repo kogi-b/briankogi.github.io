@@ -1,0 +1,34 @@
+html{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    background-color: dodgerblue;
+}
+
+h1{
+    margin: 0;
+    padding: 20px, 0;
+    text-align: center;
+    color: chocolate;
+    text-shadow: 10px, 10px, 10px black;
+}
+
+p {
+    background-color: darkgrey;
+}
+
+a:hover {
+    color:yellow;
+}
+
+body {
+    border: 5px double;
+    background-color: khaki;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
